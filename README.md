@@ -28,7 +28,7 @@ Make sure you have venv installed.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MDeanLindsay/Klaviyo-API.git
+   git clone https://github.com/MDeanLindsay/Catalog.git
    ```
 2. Create venv.
    ```sh
