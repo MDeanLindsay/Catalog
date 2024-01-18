@@ -30,17 +30,17 @@ Make sure you have venv installed.
    ```sh
    git clone https://github.com/MDeanLindsay/Catalog.git
    ```
-2. Create venv.
+3. Create virtual enviornment.
    ```sh
    python -m venv .venv
    ```
-3. Initialize venv.
-   ```sh
-   .\.venv\Scripts\bin\activate
+4. Install requirements.
+   ```py
+   pip install -requirements.txt
    ```
-5. Install requirements.
+4. Initiate venv.
    ```sh
-   pip install -r requirements.txt
+   .\.venv\Scripts\activate
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
