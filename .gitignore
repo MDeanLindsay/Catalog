@@ -141,7 +141,7 @@ dmypy.json
 .venv/
 
 #config
-pw.py
+config.py
 
 desktop.ini
 
