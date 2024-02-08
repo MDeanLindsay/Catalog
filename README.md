@@ -34,13 +34,13 @@ Make sure you have venv installed.
    ```sh
    python -m venv .venv
    ```
-4. Install requirements.
-   ```py
-   pip install -requirements.txt
-   ```
 4. Initiate venv.
    ```sh
    .\.venv\Scripts\activate
+   ```
+5. Install requirements.
+   ```py
+   pip install -requirements.txt
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
