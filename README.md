@@ -40,7 +40,7 @@ Make sure you have venv installed.
    ```
 5. Install requirements.
    ```py
-   pip install -requirements.txt
+   pip install -r requirements.txt
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
