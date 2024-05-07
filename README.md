@@ -17,13 +17,10 @@ Notebooks to standardize the catalog mailing process.
 
 ### Prerequisites
 
-Make sure you have venv installed.
+* Python 3.9.6
 
-* venv
-  ```py
-  pip install venv
-  ```
-* Create a pw.py file with needed server credentials.
+* Create a file named config.py file based on config_example.py
+
 ### Installation
 
 1. Clone the repo
